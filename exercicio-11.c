@@ -3,7 +3,7 @@ void main()
 {
     //leaia um valor de horas, minutos e segundos e calcule e mostre quantos segundos se passaram desde o inicio do dia
     float H, M, S, segundosTotal;
-    printf("\nInforme um as Horas.");
+    printf("\nInforme as Horas.");
     printf("\nHoras: ");
     scanf("%f", &H);
     printf("Minutos: ");
